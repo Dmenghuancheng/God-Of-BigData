@@ -2,9 +2,8 @@
 <div align="center">  
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
+本文为转载文
 
-已经更新300+篇~ </br>
-关注[公众号](#QQQ扫我关注公众号)~
 </div>
 
 ## 大数据成神之路目录
@@ -471,7 +470,7 @@
 &emsp; 2.[Spark面试题总结（二）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%BA%8C%EF%BC%89.md)  
 &emsp; 3.[Spark面试题总结（三）](面试系列/Spark面试题整理/Spark%EF%BC%88%E4%B8%89%EF%BC%89.md)  
 &emsp; 4.[Spark面试题总结（四）](面试系列/Spark面试题整理/Spark%EF%BC%88%E5%9B%9B%EF%BC%89.md)  
-  
+
 &emsp; **Spark性能优化：**  
 &emsp; 5.[Spark面试题总结（五）——几种常见的数据倾斜情况及调优方式](面试系列/Spark面试题整理/Spark调优/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C.md)  
 &emsp; 6.[Spark面试题总结（六）——Shuffle配置调优](面试系列/Spark面试题整理/Spark调优/Shuffle%E9%85%8D%E7%BD%AE%E8%B0%83%E4%BC%98.md)  
