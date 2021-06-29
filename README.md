@@ -1,8 +1,9 @@
-
 <div align="center">  
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
-本文为转载文
+
+
+
 
 </div>
 
@@ -80,6 +81,10 @@
     </tr>
   </table>
 <br/> 
+
+
+
+本文为转载文
 
 
 ## 第一部分: 大数据开发基础篇
